@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 寂調音所問經
+#+DATE: 2015-08-30 20:44:28.598795
+#+PROPERTY: JUAN 0
