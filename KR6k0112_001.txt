@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:28.391868
+#+DATE: 2015-08-30 20:44:29.663685
 #+TITLE: 寂調音所問經
 #+PROPERTY: CBETA_ID T24n1490
 #+PROPERTY: ID KR6k0112
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1490
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0112_T_000-1081a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0112_T_001-1081a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1490[No.1489]¶
-
- 《寂調音所問經》(一名如來所說清淨調伏)¶
+No. 1490 [No. 1489]¶
+《寂調音所問經》(一名如來所說清淨調伏)¶
 ¶
 宋三藏法師法海奉　詔譯¶
 
